@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="CivicRouteAD" xmlns="http://www.topografix.com/GPX/1/1">
+  <trk><name>Severe Storm &amp; Downed Timber (Alpine Route)</name><trkseg>
+    <trkpt lat="45.891520" lon="-123.961390"><ele>142.0</ele><time>2026-10-09T08:30:00Z</time><speed>13.80</speed></trkpt>
+    <trkpt lat="45.891648" lon="-123.961281"><ele>142.1</ele><time>2026-10-09T08:30:01Z</time><speed>14.38</speed></trkpt>
+    <trkpt lat="45.891782" lon="-123.961174"><ele>142.3</ele><time>2026-10-09T08:30:02Z</time><speed>14.81</speed></trkpt>
+    <trkpt lat="45.891921" lon="-123.961070"><ele>142.5</ele><time>2026-10-09T08:30:03Z</time><speed>15.00</speed></trkpt>
+    <trkpt lat="45.892061" lon="-123.960970"><ele>142.8</ele><time>2026-10-09T08:30:04Z</time><speed>14.89</speed></trkpt>
+    <trkpt lat="45.892199" lon="-123.960875"><ele>143.1</ele><time>2026-10-09T08:30:05Z</time><speed>14.52</speed></trkpt>
+    <trkpt lat="45.892332" lon="-123.960782"><ele>143.4</ele><time>2026-10-09T08:30:06Z</time><speed>13.97</speed></trkpt>
+    <trkpt lat="45.892459" lon="-123.960691"><ele>143.6</ele><time>2026-10-09T08:30:07Z</time><speed>13.38</speed></trkpt>
+    <trkpt lat="45.892578" lon="-123.960601"><ele>143.8</ele><time>2026-10-09T08:30:08Z</time><speed>12.89</speed></trkpt>
+    <trkpt lat="45.892689" lon="-123.960510"><ele>144.0</ele><time>2026-10-09T08:30:09Z</time><speed>12.63</speed></trkpt>
+    <trkpt lat="45.892794" lon="-123.960417"><ele>144.0</ele><time>2026-10-09T08:30:10Z</time><speed>12.65</speed></trkpt>
+    <trkpt lat="45.892895" lon="-123.960320"><ele>143.9</ele><time>2026-10-09T08:30:11Z</time><speed>12.95</speed></trkpt>
+    <trkpt lat="45.892995" lon="-123.960219"><ele>143.8</ele><time>2026-10-09T08:30:12Z</time><speed>13.46</speed></trkpt>
+  </trkseg></trk>
+</gpx>

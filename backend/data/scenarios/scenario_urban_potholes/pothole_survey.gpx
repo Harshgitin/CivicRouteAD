@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="CivicRouteAD" xmlns="http://www.topografix.com/GPX/1/1">
+  <trk><name>Severe Potholes &amp; Structural Cracks (Sekilab RDD)</name><trkseg>
+    <trkpt lat="35.689620" lon="139.691810"><ele>142.0</ele><time>2026-10-09T08:30:00Z</time><speed>13.80</speed></trkpt>
+    <trkpt lat="35.689748" lon="139.691919"><ele>142.1</ele><time>2026-10-09T08:30:01Z</time><speed>14.38</speed></trkpt>
+    <trkpt lat="35.689882" lon="139.692026"><ele>142.3</ele><time>2026-10-09T08:30:02Z</time><speed>14.81</speed></trkpt>
+    <trkpt lat="35.690021" lon="139.692130"><ele>142.5</ele><time>2026-10-09T08:30:03Z</time><speed>15.00</speed></trkpt>
+    <trkpt lat="35.690161" lon="139.692230"><ele>142.8</ele><time>2026-10-09T08:30:04Z</time><speed>14.89</speed></trkpt>
+    <trkpt lat="35.690299" lon="139.692325"><ele>143.1</ele><time>2026-10-09T08:30:05Z</time><speed>14.52</speed></trkpt>
+    <trkpt lat="35.690432" lon="139.692418"><ele>143.4</ele><time>2026-10-09T08:30:06Z</time><speed>13.97</speed></trkpt>
+    <trkpt lat="35.690559" lon="139.692509"><ele>143.6</ele><time>2026-10-09T08:30:07Z</time><speed>13.38</speed></trkpt>
+    <trkpt lat="35.690678" lon="139.692599"><ele>143.8</ele><time>2026-10-09T08:30:08Z</time><speed>12.89</speed></trkpt>
+    <trkpt lat="35.690789" lon="139.692690"><ele>144.0</ele><time>2026-10-09T08:30:09Z</time><speed>12.63</speed></trkpt>
+    <trkpt lat="35.690894" lon="139.692783"><ele>144.0</ele><time>2026-10-09T08:30:10Z</time><speed>12.65</speed></trkpt>
+  </trkseg></trk>
+</gpx>

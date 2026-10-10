@@ -1,0 +1,97 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "system": "CivicRouteAD - Edge-to-GIS Hazard Pipeline",
+    "generated_at": "2026-10-10T02:04:42.746456+00:00",
+    "run_id": "custom_a27a93b7",
+    "is_synthetic": false,
+    "data_classification": "USER_UPLOADED_UNVERIFIED",
+    "total_hazards": 0,
+    "severity_summary": {
+      "Critical": 0,
+      "High": 0,
+      "Medium": 0,
+      "Low": 0
+    },
+    "route_distance_km": 0.167,
+    "coverage_ratio": 0.948,
+    "warnings": [],
+    "geolocation_notice": "Camera-projected hazard positions are approximate; camera calibration and ground-truth accuracy have not been validated."
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "survey-trajectory",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            139.69181,
+            35.68962,
+            142.0
+          ],
+          [
+            139.691919,
+            35.689748,
+            142.1
+          ],
+          [
+            139.692026,
+            35.689882,
+            142.3
+          ],
+          [
+            139.69213,
+            35.690021,
+            142.5
+          ],
+          [
+            139.69223,
+            35.690161,
+            142.8
+          ],
+          [
+            139.692325,
+            35.690299,
+            143.1
+          ],
+          [
+            139.692418,
+            35.690432,
+            143.4
+          ],
+          [
+            139.692509,
+            35.690559,
+            143.6
+          ],
+          [
+            139.692599,
+            35.690678,
+            143.8
+          ],
+          [
+            139.69269,
+            35.690789,
+            144.0
+          ],
+          [
+            139.692783,
+            35.690894,
+            144.0
+          ]
+        ]
+      },
+      "properties": {
+        "feature_class": "survey_trajectory",
+        "name": "Vehicle Dashcam Survey Route",
+        "total_distance_m": 166.81508835429705,
+        "duration_sec": 10.543866666666666,
+        "avg_speed_kmh": 57.0,
+        "points_count": 11,
+        "is_synthetic": false,
+        "data_classification": "USER_UPLOADED_UNVERIFIED"
+      }
+    }
+  ]
+}

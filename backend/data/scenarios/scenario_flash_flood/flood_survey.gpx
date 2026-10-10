@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="CivicRouteAD" xmlns="http://www.topografix.com/GPX/1/1">
+  <trk><name>Flash Flooding &amp; Stormwater Inundation</name><trkseg>
+    <trkpt lat="25.761820" lon="-80.191690"><ele>142.0</ele><time>2026-10-09T08:30:00Z</time><speed>13.80</speed></trkpt>
+    <trkpt lat="25.761948" lon="-80.191581"><ele>142.1</ele><time>2026-10-09T08:30:01Z</time><speed>14.38</speed></trkpt>
+    <trkpt lat="25.762082" lon="-80.191474"><ele>142.3</ele><time>2026-10-09T08:30:02Z</time><speed>14.81</speed></trkpt>
+    <trkpt lat="25.762221" lon="-80.191370"><ele>142.5</ele><time>2026-10-09T08:30:03Z</time><speed>15.00</speed></trkpt>
+    <trkpt lat="25.762361" lon="-80.191270"><ele>142.8</ele><time>2026-10-09T08:30:04Z</time><speed>14.89</speed></trkpt>
+    <trkpt lat="25.762499" lon="-80.191175"><ele>143.1</ele><time>2026-10-09T08:30:05Z</time><speed>14.52</speed></trkpt>
+    <trkpt lat="25.762632" lon="-80.191082"><ele>143.4</ele><time>2026-10-09T08:30:06Z</time><speed>13.97</speed></trkpt>
+    <trkpt lat="25.762759" lon="-80.190991"><ele>143.6</ele><time>2026-10-09T08:30:07Z</time><speed>13.38</speed></trkpt>
+    <trkpt lat="25.762878" lon="-80.190901"><ele>143.8</ele><time>2026-10-09T08:30:08Z</time><speed>12.89</speed></trkpt>
+    <trkpt lat="25.762989" lon="-80.190810"><ele>144.0</ele><time>2026-10-09T08:30:09Z</time><speed>12.63</speed></trkpt>
+    <trkpt lat="25.763094" lon="-80.190717"><ele>144.0</ele><time>2026-10-09T08:30:10Z</time><speed>12.65</speed></trkpt>
+  </trkseg></trk>
+</gpx>

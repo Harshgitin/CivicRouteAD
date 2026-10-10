@@ -1,0 +1,55 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "system": "CivicRouteAD - Edge-to-GIS Hazard Pipeline",
+    "generated_at": "2026-10-10T01:51:47.525004+00:00",
+    "run_id": "test_pothole_run_verification",
+    "is_synthetic": false,
+    "data_classification": "USER_UPLOADED_UNVERIFIED",
+    "total_hazards": 1,
+    "severity_summary": {
+      "Critical": 0,
+      "High": 0,
+      "Medium": 1,
+      "Low": 0
+    },
+    "route_distance_km": 0.0,
+    "coverage_ratio": 0.0,
+    "warnings": [
+      "No synchronized GPS track supplied; visual detections are not geolocated."
+    ],
+    "geolocation_notice": "No synchronized GPS track was supplied; detections have no real-world coordinates."
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "HAZ-001",
+      "geometry": null,
+      "properties": {
+        "feature_class": "road_hazard",
+        "hazard_id": "HAZ-001",
+        "hazard_type": "pothole_damage",
+        "label": "Pothole",
+        "class_code": "D40",
+        "severity": "Medium",
+        "confidence": 0.57,
+        "verification": "model_inferred_unverified",
+        "detection_source": "rdd2022_road_damage_model",
+        "location_quality": "gps_track_not_supplied",
+        "estimated_uncertainty_m": null,
+        "forward_distance_m": 5.94,
+        "lateral_offset_m": 1.61,
+        "lane_location": "Right Lane",
+        "timestamp_sec": 0.2,
+        "gps_timestamp": null,
+        "frame_idx": 6,
+        "snapshot_url": "/api/hazard-crops/test_pothole_run_verification/haz-001.jpg",
+        "suggested_action": "Schedule emergency cold-mix patching within 24 hours. Mark with reflective hazard cone if depth > 5cm.",
+        "department": "Department of Transportation - Asphalt Maintenance",
+        "marker_color": "#f59e0b",
+        "is_synthetic": false,
+        "data_classification": "USER_UPLOADED_UNVERIFIED"
+      }
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "run_id": "test_pothole_run_verification",
+  "status": "completed",
+  "is_synthetic": false,
+  "metadata": {
+    "run_id": "test_pothole_run_verification",
+    "is_synthetic": false,
+    "data_classification": "USER_UPLOADED_UNVERIFIED",
+    "geolocation_notice": "No synchronized GPS track was supplied; detections have no real-world coordinates.",
+    "total_distance_m": 0.0,
+    "duration_sec": 1.0,
+    "avg_speed_kmh": null,
+    "frame_count": 30,
+    "fps": 30.0,
+    "sample_step": 3,
+    "sampled_frames": 10,
+    "video_filename": "pothole_demo_test.mp4",
+    "gps_filename": null,
+    "gps_available": false,
+    "coverage_ratio": 0.0,
+    "warnings": [
+      "No synchronized GPS track supplied; visual detections are not geolocated."
+    ],
+    "time_offset_sec": 0.0,
+    "detector": {
+      "ultralytics_available": true,
+      "general_model_loaded": true,
+      "general_model": "yolov8n.pt",
+      "road_damage_model_loaded": true,
+      "road_damage_model": "yolov8s_best.pt",
+      "pothole_seg_model_loaded": false,
+      "pothole_seg_model": null,
+      "confidence_thresholds": {
+        "pothole_segmentation": 0.35,
+        "rdd_pothole": 0.28,
+        "rdd_crack": 0.2
+      },
+      "engine": "RDD2022 + YOLO + OpenCV candidate fallback",
+      "warnings": [
+        "Dedicated pothole segmentation weights not found; add backend/models/pothole_seg.pt to enable instance masks"
+      ]
+    }
+  },
+  "hazards_count": 1,
+  "hazards": [
+    {
+      "id": "HAZ-001",
+      "type": "pothole_damage",
+      "label": "Pothole",
+      "class_code": "D40",
+      "polygon": null,
+      "has_mask": false,
+      "severity": "Medium",
+      "confidence": 0.57,
+      "source": "rdd2022_road_damage_model",
+      "verification": "model_inferred_unverified",
+      "lat": null,
+      "lon": null,
+      "location_quality": "gps_track_not_supplied",
+      "estimated_uncertainty_m": null,
+      "forward_distance_m": 5.94,
+      "lateral_offset_m": 1.61,
+      "lane_location": "Right Lane",
+      "timestamp_sec": 0.2,
+      "gps_timestamp": null,
+      "frame_idx": 6,
+      "duration_visible_sec": 0.9,
+      "snapshot_url": "/api/hazard-crops/test_pothole_run_verification/haz-001.jpg",
+      "is_synthetic": false
+    }
+  ],
+  "geojson_url": "/api/geojson/test_pothole_run_verification",
+  "telemetry_url": "/api/telemetry/test_pothole_run_verification",
+  "report_url": "/api/export/report/test_pothole_run_verification"
+}

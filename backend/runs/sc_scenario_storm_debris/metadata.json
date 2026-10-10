@@ -1,0 +1,18 @@
+{
+  "run_id": "sc_scenario_storm_debris",
+  "scenario_id": "scenario_storm_debris",
+  "scenario_title": "[Synthetic Demo] Severe Storm & Downed Timber",
+  "is_synthetic": true,
+  "data_classification": "SYNTHETIC_BENCHMARK_FIXTURE",
+  "video_filename": "storm_survey.mp4",
+  "gps_filename": "storm_survey.gpx",
+  "gps_available": true,
+  "duration_sec": 12.0,
+  "total_distance_m": 187.6267363028225,
+  "coverage_ratio": 1.0,
+  "geolocation_notice": "Synthetic route is illustrative and is not road-matched ground truth.",
+  "warnings": [
+    "Synthetic benchmark preview; hazard analysis is still processing."
+  ],
+  "analysis_cache_version": "analysis-lab-cache-v3"
+}

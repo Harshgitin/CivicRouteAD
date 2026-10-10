@@ -1,0 +1,14 @@
+{
+  "run_id": "custom_a27a93b7",
+  "is_synthetic": false,
+  "data_classification": "USER_UPLOADED_UNVERIFIED",
+  "video_filename": "uhd_30fps.mp4",
+  "gps_filename": "pothole_survey (1).gpx",
+  "gps_available": true,
+  "duration_sec": 10.544,
+  "time_offset_sec": 0.0,
+  "total_distance_m": 166.81508835429705,
+  "coverage_ratio": 1.0,
+  "geolocation_notice": "Camera-projected hazard positions are approximate and have not been independently ground-truth validated.",
+  "warnings": []
+}

@@ -1,0 +1,107 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "system": "CivicRouteAD - Edge-to-GIS Hazard Pipeline",
+    "generated_at": "2026-10-10T01:56:22.883113+00:00",
+    "run_id": "sc_scenario_storm_debris",
+    "is_synthetic": true,
+    "data_classification": "SYNTHETIC_BENCHMARK_FIXTURE",
+    "total_hazards": 0,
+    "severity_summary": {
+      "Critical": 0,
+      "High": 0,
+      "Medium": 0,
+      "Low": 0
+    },
+    "route_distance_km": 0.188,
+    "coverage_ratio": 1.0,
+    "warnings": [],
+    "geolocation_notice": "Synthetic route is illustrative and not road-matched."
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "survey-trajectory",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -123.96139,
+            45.89152,
+            142.0
+          ],
+          [
+            -123.961281,
+            45.891648,
+            142.1
+          ],
+          [
+            -123.961174,
+            45.891782,
+            142.3
+          ],
+          [
+            -123.96107,
+            45.891921,
+            142.5
+          ],
+          [
+            -123.96097,
+            45.892061,
+            142.8
+          ],
+          [
+            -123.960875,
+            45.892199,
+            143.1
+          ],
+          [
+            -123.960782,
+            45.892332,
+            143.4
+          ],
+          [
+            -123.960691,
+            45.892459,
+            143.6
+          ],
+          [
+            -123.960601,
+            45.892578,
+            143.8
+          ],
+          [
+            -123.96051,
+            45.892689,
+            144.0
+          ],
+          [
+            -123.960417,
+            45.892794,
+            144.0
+          ],
+          [
+            -123.96032,
+            45.892895,
+            143.9
+          ],
+          [
+            -123.960219,
+            45.892995,
+            143.8
+          ]
+        ]
+      },
+      "properties": {
+        "feature_class": "survey_trajectory",
+        "name": "Vehicle Dashcam Survey Route",
+        "total_distance_m": 187.6267363028225,
+        "duration_sec": 12.0,
+        "avg_speed_kmh": 56.3,
+        "points_count": 13,
+        "is_synthetic": true,
+        "data_classification": "SYNTHETIC_BENCHMARK_FIXTURE"
+      }
+    }
+  ]
+}

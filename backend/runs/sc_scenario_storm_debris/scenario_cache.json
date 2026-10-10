@@ -1,0 +1,15 @@
+{
+  "source_signature": {
+    "version": "analysis-lab-cache-v3",
+    "video_size": 187118,
+    "video_mtime_ns": 1791590715300331100,
+    "gps_size": 1840,
+    "gps_mtime_ns": 1791590715222226300,
+    "ultralytics_available": true,
+    "general_model_loaded": true,
+    "road_damage_model_loaded": true,
+    "road_damage_model": "yolov8s_best.pt"
+  },
+  "scenario_id": "scenario_storm_debris",
+  "completed_at": "2026-10-10T00:10:56.194799+00:00"
+}

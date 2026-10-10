@@ -1,0 +1,48 @@
+{
+  "run_id": "custom_534bc0e3",
+  "status": "completed",
+  "is_synthetic": false,
+  "metadata": {
+    "run_id": "custom_534bc0e3",
+    "is_synthetic": false,
+    "data_classification": "USER_UPLOADED_UNVERIFIED",
+    "geolocation_notice": "Camera-projected hazard positions are approximate; camera calibration and ground-truth accuracy have not been validated.",
+    "total_distance_m": 166.81508835429705,
+    "duration_sec": 10.543866666666666,
+    "avg_speed_kmh": 57.0,
+    "frame_count": 316,
+    "fps": 29.97,
+    "sample_step": 3,
+    "sampled_frames": 106,
+    "video_filename": "uhd_30fps.mp4",
+    "gps_filename": "pothole_survey (1).gpx",
+    "gps_available": true,
+    "coverage_ratio": 0.948,
+    "warnings": [],
+    "time_offset_sec": 0.0,
+    "detector": {
+      "ultralytics_available": true,
+      "general_model_loaded": true,
+      "general_model": "yolov8n.pt",
+      "road_damage_model_loaded": true,
+      "road_damage_model": "yolov8s_best.pt",
+      "pothole_seg_model_loaded": false,
+      "pothole_seg_model": null,
+      "confidence_thresholds": {
+        "pothole_segmentation": 0.35,
+        "rdd_pothole": 0.28,
+        "rdd_crack": 0.2
+      },
+      "engine": "RDD2022 + YOLO + OpenCV candidate fallback",
+      "warnings": [
+        "Dedicated pothole segmentation weights not found; add backend/models/pothole_seg.pt to enable instance masks"
+      ]
+    },
+    "gps_processed": true
+  },
+  "hazards_count": 0,
+  "hazards": [],
+  "geojson_url": "/api/geojson/custom_534bc0e3",
+  "telemetry_url": "/api/telemetry/custom_534bc0e3",
+  "report_url": "/api/export/report/custom_534bc0e3"
+}

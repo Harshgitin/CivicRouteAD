@@ -1,0 +1,14 @@
+{
+  "run_id": "custom_88715b78",
+  "is_synthetic": false,
+  "data_classification": "USER_UPLOADED_UNVERIFIED",
+  "video_filename": "storm_survey.mp4",
+  "gps_filename": "storm_survey.gpx",
+  "gps_available": true,
+  "duration_sec": 12.0,
+  "time_offset_sec": 0.0,
+  "total_distance_m": 187.6267363028225,
+  "coverage_ratio": 1.0,
+  "geolocation_notice": "Camera-projected hazard positions are approximate and have not been independently ground-truth validated.",
+  "warnings": []
+}
